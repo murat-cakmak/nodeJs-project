@@ -24,5 +24,4 @@ location(function(location){
         console.log("Long/Lat : " + location.loc);
         console.log("Ülke : " + location.country);
     }
-
 })

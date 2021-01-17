@@ -1,0 +1,6 @@
+git config --global user.name "USER NAME"
+git config --global user.email "USER EMAİL"
+git config --global push.default matching
+git config --global alias.co checkout
+
+git rm --cached -r node_modules
